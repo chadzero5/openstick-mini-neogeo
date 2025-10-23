@@ -4,9 +4,9 @@ This is a simple remix of the Open Stick Mini by TheTrain (attribution is below)
 
 Changes
 - Top panel converted to 4 x 30mm buttons.
-- 2 version of the top panel included, 1 has counter sunk holes, another has regular holes for pan / button top bolts.
-- 2 x aux buttons removed on the frame, changed the remaining 2 buttons to 16mm push buttons.
 - Added 3mm height on the frame, the top piece then becomes the "mid" piece. I then make another top 3mm piece without the joystick mounting holes (I do not like joystick mounting holes).
+- 2 versiosn of the top panel included, 1 has counter sunk holes, another has regular holes for pan / button top bolts.
+- 2 x aux buttons removed on the frame, changed the remaining 2 buttons to 16mm push buttons.
 - Removed posts for a PCB.
 - No OLED screen support on this.
 
@@ -71,7 +71,7 @@ Each piece should be placed flat down on the print bed to ensure maximum strengt
 The following hardware is needed to assemble the case:
 - 4 x M4 35mm brass standoffs
 - 12 x M4 14mm countersunk hex bolts (ommit 4 bolts here if you using button head bolts.
-****- 4 x M4 16mm buttonhead hex bolts (if not using the countersunk top piece)****
+- ****4 x M4 16mm buttonhead hex bolts (if not using the countersunk top piece)****
 - 4 x M4 flange nuts
 - 2 x M3 18mm countersunk hex bolts
 - 2 x M3 nuts
