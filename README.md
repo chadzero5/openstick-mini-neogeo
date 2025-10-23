@@ -1,5 +1,5 @@
 # Open Stick Mini - Neo Geo Edition
-
+![alt text](assets/photo-1.jpg)
 This is a simple remix of the Open Stick Mini by TheTrain (attribution is below).
 
 Changes
