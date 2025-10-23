@@ -11,9 +11,7 @@ I am not responsible for prints that do not turn out as intended or any damages 
 
 ## Attribution
 
-The following text must be included in any distribution of derivatives of this project or the boards. All links must also be included.
-
-Based on the Open Stick Mini by TheTrain.
+Based on the Open Stick Mini by TheTrain. (https://github.com/OpenStickCommunity/Hardware/blob/main/3D%20Prints/Open%20Stick%20Mini/README.md)
 
 Copyright © 2025 [TheTrain](http://x.com/thetrain24)<br/>
 
