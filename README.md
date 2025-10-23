@@ -1,0 +1,2 @@
+# openstick-mini-neogeo
+test
