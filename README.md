@@ -37,7 +37,7 @@ Anyone selling this commercially must include in the listing that this is an ope
 
 ---
 
-## Warnings / Disclaimer:
+## Warnings / Disclaimer
 
 Please note the following warnings / disclaimer:
 - This is designed specifically for the Sanwa JLF lever.  It will not work with other levers.  It should work with the JLX but has not been tested.
@@ -45,13 +45,13 @@ Please note the following warnings / disclaimer:
 - I am not responsible for any damage that happens to your printer or parts of your printer as a result of printing these files.
 - If you make and sell these units you are responsible for supporting your own customers.
 
-## Summary:
+## Summary
 
 The goal of this project was to create a high quality fightstick case that could be printed on a 250mm x 250mm print bed in parts.  The Open Stick Mini is a continuation of the original Open Stick Case design to allow for greater flexibility and customization of individual parts while reducing the chances of print failures on the main frame.  The Open Stick Mini uses less than 450g of filament to print so it a very low cost and sturdy case.  You should be able to print two units out of a single 1kg roll.  
 
 ---
 
-## Printing and Construction:
+## Printing and Construction
 
 This project is now complete and I have printed and checked the final version of each file.  If there are improvements made and those files will be posted when I make them.
 
