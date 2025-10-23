@@ -1,4 +1,4 @@
-# openstick-mini-neogeo
+# Open Stick Mini - Neo Geo Edition
 
 This is a simple remix of the Open Stick Mini by TheTrain (attribution is below).
 
