@@ -5,7 +5,7 @@ This is a simple remix of the Open Stick Mini by TheTrain (attribution is below)
 Changes
 - Top panel converted to 4 x 30mm buttons.
 - Added 3mm height on the frame, the top piece then becomes the "mid" piece. I then make another top 3mm piece without the joystick mounting holes (I do not like joystick mounting holes).
-- 2 versiosn of the top panel included, 1 has counter sunk holes, another has regular holes for pan / button top bolts.
+- 2 versions of the top panel are included, 1 has counter sunk holes, another has regular holes for pan / button top bolts.
 - 2 x aux buttons removed on the frame, changed the remaining 2 buttons to 16mm push buttons.
 - Removed posts for a PCB.
 - No OLED screen support on this.
