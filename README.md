@@ -1,16 +1,16 @@
 # openstick-mini-neogeo
 
-This is a simple remix of the Open Stick Mini by TheTrain (attribution is below)
-
-Everything below is a copy and paste from the original repo. I have made changes to the below that is relevant to this project. You can identify this with anything that has a strike through is from the original and my changes are listed next to it.
+This is a simple remix of the Open Stick Mini by TheTrain (attribution is below).
 
 Changes
-- Top panel converted to 4x 30mm arcade buttons.
+- Top panel converted to 4 x 30mm buttons.
 - 2 version of the top panel included, 1 has counter sunk holes, another has regular holes for pan / button top bolts.
-- 2x Aux buttons removed, changed the remaining 2 buttons to 16mm push buttons
-- Added 3mm height on the frame, the top piece then becomes the "mid" piece. I then make another top 3mm piece without the joystick mounting holes (I do not like joystick mounting holes)
+- 2 x aux buttons removed on the frame, changed the remaining 2 buttons to 16mm push buttons.
+- Added 3mm height on the frame, the top piece then becomes the "mid" piece. I then make another top 3mm piece without the joystick mounting holes (I do not like joystick mounting holes).
 - Removed posts for a PCB.
 - No OLED screen support on this.
+
+Everything below is a copy and paste from the original repo. I have made changes to the below that is relevant to this project. You can identify this with anything that has a strike through is from the original and my changes are listed next to it.
 
 ---
 
@@ -70,7 +70,8 @@ Each piece should be placed flat down on the print bed to ensure maximum strengt
 
 The following hardware is needed to assemble the case:
 - 4 x M4 35mm brass standoffs
-- 12 x M4 14mm countersunk hex bolts
+- 12 x M4 14mm countersunk hex bolts (ommit 4 bolts here if you using button head bolts.
+****- 4 x M4 16mm buttonhead hex bolts (if not using the countersunk top piece)****
 - 4 x M4 flange nuts
 - 2 x M3 18mm countersunk hex bolts
 - 2 x M3 nuts
@@ -81,7 +82,7 @@ Please note: If you choose to use another type of USB connector port that is not
 Assembly:
 - The M4 35mm brass standoffs slide into the four corner posts and should be friction fit.
 - The JLF lever is secured with four M4 14mm countersunk bolts secured with either flange or acorn nuts.
-- ~~The top and bottom plate are secured with four (each) M4 14mm countersunk bolts.~~ Bottom piece is secured with four M4 14mm countersunk bolts. Top piece can be secured with four M4 14mmcou
+- ~~The top and bottom plate are secured with four (each) M4 14mm countersunk bolts.~~ ****Bottom piece is secured with four M4 14mm countersunk bolts. Top piece can be secured with 4x M4 14mm countersunk bolts or 4x M4 16mm button head bolts.****
 - The Neutrik port is secured with two M3 18mm countersunk hex bolts and two M3 nuts.
 
 
