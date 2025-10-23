@@ -1,4 +1,17 @@
 # openstick-mini-neogeo
+
+This is a simple remix of the Open Stick Mini by TheTrain (attribution is below)
+
+Everything below is a copy and paste from the original repo. I have made changes to the below that is relevant to this project. You can identify this with anything that has a strike through is from the original and my changes are listed next to it.
+
+Changes
+- Top panel converted to 4x 30mm arcade buttons.
+- 2 version of the top panel included, 1 has counter sunk holes, another has regular holes for pan / button top bolts.
+- 2x Aux buttons removed, changed the remaining 2 buttons to 16mm push buttons
+- Added 3mm height on the frame, the top piece then becomes the "mid" piece. I then make another top 3mm piece without the joystick mounting holes (I do not like joystick mounting holes)
+- Removed posts for a PCB.
+- No OLED screen support on this.
+
 ---
 
 !!!WARNING!!!
@@ -18,7 +31,7 @@ Copyright © 2025 [TheTrain](http://x.com/thetrain24)<br/>
 [Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Changes from the original design:
-  - list any changes you make here
+  - See above for list of changes.
 
 Anyone selling this commercially must include in the listing that this is an open source item, link to the original repo and include the copyright as well as the link to my X account.
 
@@ -59,23 +72,16 @@ The following hardware is needed to assemble the case:
 - 4 x M4 35mm brass standoffs
 - 12 x M4 14mm countersunk hex bolts
 - 4 x M4 flange nuts
-- 4 x M3 8mm button top hex bolts (for the board)
 - 2 x M3 18mm countersunk hex bolts
 - 2 x M3 nuts
 - 1 x Neutrik USB-B to USB-A port
 
 Please note: If you choose to use another type of USB connector port that is not Neutrik it may not fit.
 
-The following parts are needed if you choose to make the OLED version:
-- 4 x M2 4mm buttom top hex bolts
-- 1 x 0.96" OLED screen (https://www.aliexpress.com/item/1005006501624032.html)
-
-Please note: Other OLED units from other suppliers may not fit and may require changes to the model.
-
 Assembly:
 - The M4 35mm brass standoffs slide into the four corner posts and should be friction fit.
 - The JLF lever is secured with four M4 14mm countersunk bolts secured with either flange or acorn nuts.
-- The top and bottom plate are secured with four (each) M4 14mm countersunk bolts.
+- ~~The top and bottom plate are secured with four (each) M4 14mm countersunk bolts.~~ Bottom piece is secured with four M4 14mm countersunk bolts. Top piece can be secured with four M4 14mmcou
 - The Neutrik port is secured with two M3 18mm countersunk hex bolts and two M3 nuts.
-- The OLED is secured with four M2 4mm button top hex bolts
+
 
